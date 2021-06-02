@@ -1,0 +1,16 @@
+/media/papuga/weronika/Kod/ConsoleAsm/bin/Debug/net5.0/ConsoleAsm
+/media/papuga/weronika/Kod/ConsoleAsm/bin/Debug/net5.0/ConsoleAsm.deps.json
+/media/papuga/weronika/Kod/ConsoleAsm/bin/Debug/net5.0/ConsoleAsm.runtimeconfig.json
+/media/papuga/weronika/Kod/ConsoleAsm/bin/Debug/net5.0/ConsoleAsm.runtimeconfig.dev.json
+/media/papuga/weronika/Kod/ConsoleAsm/bin/Debug/net5.0/ConsoleAsm.dll
+/media/papuga/weronika/Kod/ConsoleAsm/bin/Debug/net5.0/ref/ConsoleAsm.dll
+/media/papuga/weronika/Kod/ConsoleAsm/bin/Debug/net5.0/ConsoleAsm.pdb
+/media/papuga/weronika/Kod/ConsoleAsm/obj/Debug/net5.0/ConsoleAsm.csprojAssemblyReference.cache
+/media/papuga/weronika/Kod/ConsoleAsm/obj/Debug/net5.0/ConsoleAsm.GeneratedMSBuildEditorConfig.editorconfig
+/media/papuga/weronika/Kod/ConsoleAsm/obj/Debug/net5.0/ConsoleAsm.AssemblyInfoInputs.cache
+/media/papuga/weronika/Kod/ConsoleAsm/obj/Debug/net5.0/ConsoleAsm.AssemblyInfo.cs
+/media/papuga/weronika/Kod/ConsoleAsm/obj/Debug/net5.0/ConsoleAsm.csproj.CoreCompileInputs.cache
+/media/papuga/weronika/Kod/ConsoleAsm/obj/Debug/net5.0/ConsoleAsm.dll
+/media/papuga/weronika/Kod/ConsoleAsm/obj/Debug/net5.0/ref/ConsoleAsm.dll
+/media/papuga/weronika/Kod/ConsoleAsm/obj/Debug/net5.0/ConsoleAsm.pdb
+/media/papuga/weronika/Kod/ConsoleAsm/obj/Debug/net5.0/ConsoleAsm.genruntimeconfig.cache

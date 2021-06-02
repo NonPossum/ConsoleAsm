@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B6ZdD3EXqVR8Ep3l3mzD5EAH+dHV5duV4K+uW8f8HRYBU1y5tB/HOVhdplO/cWfCoSb5/gX+jOGcKFtOE6r0Ag==",
+  "success": true,
+  "projectFilePath": "/media/papuga/weronika/Kod/ConsoleAsm/ConsoleAsm.csproj",
+  "expectedPackageFiles": [
+    "/home/papuga/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.5/microsoft.netcore.app.host.linux-x64.5.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

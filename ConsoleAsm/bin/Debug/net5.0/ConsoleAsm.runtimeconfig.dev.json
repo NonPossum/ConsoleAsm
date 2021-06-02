@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/papuga/.dotnet/store/|arch|/|tfm|",
+      "/home/papuga/.nuget/packages"
+    ]
+  }
+}
