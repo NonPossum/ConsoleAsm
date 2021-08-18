@@ -6,13 +6,13 @@ ConsoleAsm is an x86 Assembly Simulator written in c# so far  handling basic ins
 <img  align="left" src="https://github.com/DeVianney/ConsoleAsm/blob/main/img/0.png">
 
 Provided Functions:  
-`$val` - Show decimal value of registers of memory segment.  
-`$hval` - Show hex value of registers of memory segment.  
+`$val` - Show decimal value of registers or memory segment.  
+`$hval` - Show hex value of registers or memory segment.  
 `$flags`- Show value of eflags register.  
-`$inst` - Show writed instructions.  
-`$heap` - Show value of all heap.  
-`$stack`- Show value of all stack.  
-`$dump` - Dump writed instructions to file history.txt.  
+`$inst` - Show written instructions.  
+`$heap` - Show values of all heap.  
+`$stack`- Show values of all stack.  
+`$dump` - Dump written instructions to file history.txt.  
 `$leave`- Exit program.  
 
 
