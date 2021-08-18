@@ -1,0 +1,4 @@
+ERROR 323: Space between instructions and comma. => (xor eax, eax)Ok,(xor eax,eax)Ok,(xor eax ,eax)NOT OK 
+ERROR 324: There is no space before instructions. => (xor eax,eax)OK,(xoreax,eax)NOT OK
+ERROR 325: Invalid instruction
+ERROR 326: Invalid Address Access
