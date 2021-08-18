@@ -5,7 +5,7 @@ ConsoleAsm is an x86 Assembly Simulator written in c# so far  handling basic ins
 **Examples:** Loop based on eflag register state. Memory addressing with malloc and with stack frame.
 <img  align="left" src="https://github.com/DeVianney/ConsoleAsm/blob/main/img/0.png">
 
-Provided Functions:  
+**Provided Functions**:  
 `$val` - Show decimal value of registers or memory segment.  
 `$hval` - Show hex value of registers or memory segment.  
 `$flags`- Show value of eflags register.  
