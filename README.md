@@ -1,7 +1,8 @@
-# ConsoleAsm Alpha 
+# ConsoleAsm 1.0 
 
 ConsoleAsm is an x86 Assembly Simulator written in c# so far  handling basic instructions, stack, stack frames, heap allocation with malloc, all 32 bit registers and functions provided to easily look at memory and registers.  
-**Examples:**
+  
+**Examples:** Loop based on eflag register state. Memory addressing with malloc and with stack frame.
 <img  align="left" src="https://github.com/DeVianney/ConsoleAsm/blob/main/img/0.png">
 
 Provided Functions:  
