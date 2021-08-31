@@ -90,11 +90,6 @@ namespace ConsoleAsm
             }
         }
 
-        public static void StackSize()
-        {
-
-        }
-
     }
 
 }
