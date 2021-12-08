@@ -97,7 +97,7 @@ namespace ConsoleAsm
         static void Main(string[] args)
         {
             init();
-            Console.WriteLine("ConsoleAsm 1.0.0\n[C# implementation] https://github.com/DeVianney\nType help, copyright, credits or license for more information.\n");
+            Console.WriteLine("ConsoleAsm 1.0.0\n[C# implementation] https://github.com/Transyl\nType help, copyright, credits or license for more information.\n");
             lineofcode ri = new lineofcode(); 
             while (true)
             {
